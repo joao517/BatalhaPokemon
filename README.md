@@ -1,6 +1,6 @@
 ## Repositório feito para postar um projeto feito em Python, de batalhas pokémons
 
-*Como jogar:*
+#### Como jogar:
 - Escolha seu pokémon
 - Escolha o pokémon inimigo
 - Escolha seu ataque
