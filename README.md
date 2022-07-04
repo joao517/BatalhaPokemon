@@ -6,4 +6,4 @@
 - Escolha seu ataque
 - O primeiro a ter a vida zerada, perde
 
-### João Guilherme / [GitHub](https://github.com/joaocruijff)
+### João Guilherme / [GitHub](https://github.com/joao517)
